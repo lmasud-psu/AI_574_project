@@ -1,3 +1,0 @@
-# Fraud Detection Handbook models
-
-This directory contains the main notebooks from (Chapter 7)[https://github.com/Fraud-Detection-Handbook/fraud-detection-handbook/tree/main/Chapter_7_DeepLearning] of the Fraud Detection Handbook with some modifications to the code to get it up to date. Each notebook produces multiple intermediary models; however, only the final models are saved in the `weights` directory. The `backup_weights` directory contain some of the intermediary models.
